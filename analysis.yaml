@@ -1,7 +1,7 @@
 name: analysis
 channels:
 - conda-forge
-- biopython
+- bioconda
 dependencies:
 - pandas
 - numpy
