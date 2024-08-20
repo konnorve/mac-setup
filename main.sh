@@ -18,8 +18,11 @@ brew install --cask slack
 brew install --cask visual-studio-code
 # brew install --cask cursor
 
+brew install wget
+brew install tree
+brew install imagemagick
+
 # Install Mamba
-echo "Installing Mamba (via Miniforge)..."
-brew install mamba
+brew install --cask mambaforge
 
 echo "Setup complete!"
