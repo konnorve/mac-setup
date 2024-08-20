@@ -1,0 +1,19 @@
+name: analysis
+channels:
+- conda-forge
+- biopython
+dependencies:
+- pandas
+- numpy
+- dash
+- matplotlib
+- toyplot
+- ipython
+- ipykernel
+- pillow
+- plotly
+- scikit-image
+- scikit-learn
+- tqdm
+- scipy
+- biopython
