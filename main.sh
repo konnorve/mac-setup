@@ -26,3 +26,8 @@ brew install imagemagick
 brew install --cask mambaforge
 
 echo "Setup complete!"
+
+for file in *.yaml
+do
+mamba env create --file $file -y -v
+done
