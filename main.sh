@@ -16,7 +16,10 @@ brew install --cask notion
 brew install --cask firefox
 brew install --cask slack
 brew install --cask visual-studio-code
-# brew install --cask cursor
+brew install --cask microsoft-office
+brew install --cask rectangle
+brew install --cask 1password
+brew install --cask cursor
 
 brew install wget
 brew install tree
