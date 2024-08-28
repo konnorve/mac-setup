@@ -2,6 +2,7 @@ name: analysis
 channels:
 - conda-forge
 - bioconda
+- defaults
 dependencies:
 - pandas
 - numpy
@@ -17,3 +18,5 @@ dependencies:
 - tqdm
 - scipy
 - biopython
+- seaborn
+- photutils
