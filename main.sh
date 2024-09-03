@@ -20,6 +20,7 @@ brew install --cask microsoft-office
 brew install --cask rectangle
 brew install --cask 1password
 brew install --cask cursor
+# brew install --cask google-cloud-sdk
 
 brew install wget
 brew install tree
