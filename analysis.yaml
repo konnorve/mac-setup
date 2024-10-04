@@ -22,3 +22,5 @@ dependencies:
 - seaborn
 - photutils
 - cv2
+- python-kaleido
+- openpyxl
