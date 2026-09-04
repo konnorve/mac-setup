@@ -13,6 +13,7 @@ dependencies:
 - toyplot
 - ipython
 - ipykernel
+- jupyterlab
 - pillow
 - plotly
 - scikit-image
@@ -26,4 +27,11 @@ dependencies:
 - openpyxl
 - tifffile
 - zarr
+- h5py
+- pyarrow
+- anndata
+- scanpy
+- rasterio
+- shapely
+- beautifulsoup4
 - openai
